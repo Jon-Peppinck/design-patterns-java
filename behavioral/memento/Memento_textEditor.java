@@ -1,4 +1,4 @@
-package behavioral.momento;
+package behavioral.memento;
 
 /*
   Common use cases of the memento design pattern in web development:

@@ -1,4 +1,4 @@
-package behavioral.momento;
+package behavioral.memento;
 
 public class TextEditor {
   private String content;
