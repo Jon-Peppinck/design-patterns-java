@@ -37,7 +37,7 @@ Behavioral patterns focus on object interaction and responsibility. Key patterns
 - **State**: Alters object behavior based on its internal state.
 - **Iterator**: Provides a way to sequentially access elements of a collection without exposing its underlying structure.
 - **Visitor**: Represents an operation to be performed on elements of an object structure.
-- **Momento**: Captures an object's state so it can be restored later without breaking encapsulation, useful for undo functionality.
+- **Memento**: Captures an object's state so it can be restored later without breaking encapsulation, useful for undo functionality.
 - **Interpreter**: Defines a grammar for a language and provides an interpreter to process and evaluate sentences in that language, useful for parsing and interpreting structured data.
 
 ---
